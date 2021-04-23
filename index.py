@@ -1,6 +1,6 @@
 import pafy
 
-DOWNLOAD_FOLDER = '/home/marshall/Music'
+DOWNLOAD_FOLDER = './downloads'
 
 print('Enter video Link:')
 rawLink = input()
